@@ -70,7 +70,7 @@ hr {
 }
 
 hr:not([size]) {
-  height: 12px;
+  height: 10px;
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
